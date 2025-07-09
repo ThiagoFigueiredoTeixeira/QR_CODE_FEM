@@ -9,7 +9,7 @@
     }
    
     .paragrafh {
-      font-size: clamp(15px, 15px, 30px);
+      font-size: clamp(1em, 1vw, 3em);
       text-align: center;
       font-family: "Outfit", sans-serif;
     }
@@ -18,7 +18,7 @@
       width: 30vh;
       height: 50vh;
       margin: auto;
-      padding: 0.7rem;
+      padding: 1rem;
       background-color: hsl(0, 0%, 100%) ;
       display: flex;
       justify-content: flex-start;
