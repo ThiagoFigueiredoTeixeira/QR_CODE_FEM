@@ -1,0 +1,64 @@
+    
+    /*CORES: hsl(212, 45%, 89%)  Slate 500: hsl(216, 15%, 48%)  Slate 900: hsl(218, 44%, 22%) */
+    
+    
+    .attribution {
+      font-size: 11px;
+      text-align: center;
+      padding: 5vh;
+    }
+
+    .attribution a { color: hsl(228, 45%, 44%); }
+
+    .paragrafh {
+      font-size: clamp(15px, 15px, 30px);
+      text-align: center;
+    }
+
+    .conteinder_principal {
+      width: 30vh;
+      height: 47vh;
+      margin: auto;
+      padding: 10px 10px 0 10px;
+      background-color: hsl(0, 0%, 100%) ;
+      display: flex;
+      justify-content: center;
+      flex-direction: column;
+      align-items: center;
+      border-radius: 15px;
+      box-shadow: 0px 0px 15px hsl(218, 44%, 22%);
+    }
+
+    body{
+      background-color: hsl(212, 45%, 89%);
+      margin: 0;
+      padding: 0;
+      min-height: 100vh;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-direction: column;
+      font-size: 15px;
+      }
+
+    .qr-code {
+      width: 100%;
+      border-radius: 15px;
+    }
+
+    .textinho {
+      font-weight: bold;
+      font-size: 1em;
+      font-family: "Outfit", sans-serif;
+      font-optical-sizing: auto;
+      font-style: normal;
+
+    }
+
+     .textinho2 {
+      font-size: 0.8em;
+      font-family: "Outfit", sans-serif;
+      font-optical-sizing: auto;
+      font-style: normal;
+
+    }
