@@ -3,13 +3,11 @@
     
     
     .attribution {
-      font-size: 11px;
+      font-size: 0.7em;
       text-align: center;
       padding: 5vh;
     }
-
-    .attribution a { color: hsl(228, 45%, 44%); }
-
+   
     .paragrafh {
       font-size: clamp(15px, 15px, 30px);
       text-align: center;
@@ -18,9 +16,9 @@
 
     .conteinder_principal {
       width: 30vh;
-      height: 45vh;
+      height: 50vh;
       margin: auto;
-      padding: 10px;
+      padding: 0.7rem;
       background-color: hsl(0, 0%, 100%) ;
       display: flex;
       justify-content: flex-start;
@@ -49,14 +47,14 @@
 
     .textinho {
       font-weight: bold;
-      font-size: 1em;
+      font-size: 1.1em;
       font-optical-sizing: auto;
       font-style: normal;
 
     }
 
      .textinho2 {
-      font-size: 0.8em;
+      font-size: 0.9em;
       font-optical-sizing: auto;
       font-style: normal;
 
