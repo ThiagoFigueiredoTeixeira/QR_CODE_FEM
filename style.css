@@ -13,16 +13,17 @@
     .paragrafh {
       font-size: clamp(15px, 15px, 30px);
       text-align: center;
+      font-family: "Outfit", sans-serif;
     }
 
     .conteinder_principal {
       width: 30vh;
-      height: 47vh;
+      height: 45vh;
       margin: auto;
-      padding: 1rem;
+      padding: 10px;
       background-color: hsl(0, 0%, 100%) ;
       display: flex;
-      justify-content: center;
+      justify-content: flex-start;
       flex-direction: column;
       align-items: center;
       border-radius: 15px;
@@ -49,7 +50,6 @@
     .textinho {
       font-weight: bold;
       font-size: 1em;
-      font-family: "Outfit", sans-serif;
       font-optical-sizing: auto;
       font-style: normal;
 
@@ -57,7 +57,6 @@
 
      .textinho2 {
       font-size: 0.8em;
-      font-family: "Outfit", sans-serif;
       font-optical-sizing: auto;
       font-style: normal;
 

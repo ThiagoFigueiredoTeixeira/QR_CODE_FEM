@@ -45,14 +45,14 @@ Tendo destaque as configurações de responsividade. Forçou a rever e aprender 
 Parte do Código que me deixou orgulhoso ao concluir
 
 ```css
-  .conteinder_principal {
+    .conteinder_principal {
       width: 30vh;
-      height: 47vh;
+      height: 45vh;
       margin: auto;
       padding: 10px;
       background-color: hsl(0, 0%, 100%) ;
       display: flex;
-      justify-content: center;
+      justify-content: flex-start;
       flex-direction: column;
       align-items: center;
       border-radius: 15px;
